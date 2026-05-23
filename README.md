@@ -1,5 +1,7 @@
 # TMDB Movies
 
+🚀 Live Demo: [Ebanisa]( https://ebanisa.onrender.com/)
+
 TMDB Movies is a React-based web application that allows users to browse, search, and explore movies and TV shows using the TMDB API. The app provides a rich user experience with features like trending content, genre-based browsing, detailed movie/TV show pages, and more.
 
 ---
